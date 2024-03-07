@@ -1,4 +1,5 @@
 # barnebys.github.io
 
 
-* [Barnebys Analytics] (analytics)
+* [Barnebys Analytics] (https://barnebys.github.io/analytics)
+* 
